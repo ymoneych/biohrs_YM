@@ -18,3 +18,8 @@ biohrs_YM
 **result_Q1.png**: Q1 의 결과  
 **result_Q2.png**: Q2 의 결과  
 **plot_file.pptx**: Q3의 결과 plot
+
+
+![result_Q1](result_Q1.png)
+![result_Q2](result_Q2.png)
+

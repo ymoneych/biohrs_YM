@@ -14,7 +14,7 @@ biohrs_YM
 └── plot_file.pptx
 ```
 
-midterm.R: 실행 코드  
-Q1.txt: Q1 의 결과  
-Q2.txt: Q2 의 결과  
-plot_file.pptx: Q3의 결과 plot
+**midterm.R**: 실행 코드  
+**Q1.txt**: Q1 의 결과  
+**Q2.txt**: Q2 의 결과  
+**plot_file.pptx**: Q3의 결과 plot

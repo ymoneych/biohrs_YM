@@ -5,8 +5,8 @@
 
 ```
 biohrs_YM
-├── Q1.txt
-├── Q2.txt
+├── result_Q1.png
+├── result_Q2.png
 ├── biohrs_YM.Rproj
 ├── git_config.R
 ├── midterm.R
@@ -15,6 +15,6 @@ biohrs_YM
 ```
 
 **midterm.R**: 실행 코드  
-**Q1.txt**: Q1 의 결과  
-**Q2.txt**: Q2 의 결과  
+**result_Q1.png**: Q1 의 결과  
+**result_Q2.png**: Q2 의 결과  
 **plot_file.pptx**: Q3의 결과 plot
